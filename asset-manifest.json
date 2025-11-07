@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Love_Proposal_WebApp/static/css/main.2edd3aa2.css",
+    "main.js": "/Love_Proposal_WebApp/static/js/main.01a79f63.js",
+    "static/js/453.278eb645.chunk.js": "/Love_Proposal_WebApp/static/js/453.278eb645.chunk.js",
+    "index.html": "/Love_Proposal_WebApp/index.html",
+    "main.2edd3aa2.css.map": "/Love_Proposal_WebApp/static/css/main.2edd3aa2.css.map",
+    "main.01a79f63.js.map": "/Love_Proposal_WebApp/static/js/main.01a79f63.js.map",
+    "453.278eb645.chunk.js.map": "/Love_Proposal_WebApp/static/js/453.278eb645.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2edd3aa2.css",
+    "static/js/main.01a79f63.js"
+  ]
+}
